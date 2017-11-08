@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "neural_Qtrain", "neural_Qtrain\neural_Qtrain.pyproj", "{8CE42B26-8A77-410A-869F-A07A28913AD9}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "neural_Qtrain_gen", "neural_Qtrain_gen\neural_Qtrain_gen.pyproj", "{85DE8AC7-3AA1-48BC-BDFF-DBBC1AB3920C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CE42B26-8A77-410A-869F-A07A28913AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE42B26-8A77-410A-869F-A07A28913AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85DE8AC7-3AA1-48BC-BDFF-DBBC1AB3920C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85DE8AC7-3AA1-48BC-BDFF-DBBC1AB3920C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE4B3233-7BED-41A6-9E9B-F964068CB582}
+	EndGlobalSection
+EndGlobal
